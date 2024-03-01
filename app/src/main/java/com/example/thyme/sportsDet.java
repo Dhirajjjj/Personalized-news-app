@@ -23,7 +23,7 @@ import retrofit2.Response;
 public class sportsDet extends AppCompatActivity {
 
     RecyclerView recyclerView;
-    final String API_KEY = "616c194db4fd4bdfabcce78f86cad205";
+    final String API_KEY = "<API_KEY>";
     Adapter adapter;
     List<Articles> articles = new ArrayList<>();
     SwipeRefreshLayout swipeRefreshLayout;
