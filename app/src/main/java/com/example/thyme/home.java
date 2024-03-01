@@ -45,7 +45,7 @@ public class home extends Fragment {
 
     View view;
     RecyclerView recyclerView;
-    final String API_KEY = "616c194db4fd4bdfabcce78f86cad205";
+    final String API_KEY = "<API_KEY>";
     Adapter adapter;
     EditText etQuerry;
     Button btnSearch;
