@@ -57,3 +57,6 @@ Before starting, ensure that you have the following installed:
  - News information from historic periods
  - Platform to enable users to share feedback on news articles
 
+![image](https://github.com/Dhirajjjj/Personalized-news-app/assets/69754979/fe734982-504f-4468-921b-1024ba972a5a)
+![image](https://github.com/Dhirajjjj/Personalized-news-app/assets/69754979/ceed9ee5-f38f-41d3-ab5a-13503c109221)
+
